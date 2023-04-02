@@ -1,0 +1,1 @@
+create_clock -period 83.33333 -name {top|clk} [get_ports {clk}]
